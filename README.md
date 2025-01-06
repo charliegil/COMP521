@@ -1,9 +1,3 @@
-# COMP 521 Assignments
-
-This repository contains my work for COMP 521 - Modern Computer Games. Throughout these assignments, I created various microgames and simulations to apply course theory, including collision detection, resolution, and pathfinding techniques. All assignments were implemented in Unity.
-
----
-
 ## 1. Simple Game in Unity
 
 In this first project, I reacquainted myself with Unity by creating a single-level first-person shooter. The objective is to reach the temple, destroy a weak pillar using a gun, and use the fallen pillar pieces to cross a river and reach the goal.
