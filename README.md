@@ -54,4 +54,18 @@ Running with five humans and five robots.
 
 ![Multiple Agents Simulation Video](https://github.com/user-attachments/assets/41900457-dba9-4c36-b6c5-5acd9be3ee83)
 
+---
 
+## 4. HTN Frogger
+
+In this project, I implemented an AI for a frog navigating through traffic, inspired by the classic game Frogger. The frog must avoid vehicles, leap to safety, and potentially eat flies to gain the ability to jump. The AI uses Hierarchical Task Network (HTN) planning, allowing the frog to decide whether to jump forward, retreat, or leap over traffic based on the current game state.
+
+**Notable Features:**
+- **HTN AI**: The frog's decision-making is controlled by an HTN planner, which selects tasks based on the game state. Tasks are broken down into composite and primitive actions.
+- **Traffic Simulation**: Vehicles move across the screen in alternating directions, with random speeds and spawn points. The frog must navigate through these lanes while avoiding collisions.
+- **Fly Interaction**: The frog can eat flies to gain the ability to perform a vertical leap, avoiding traffic below.
+- **Dynamic Difficulty**: The number of vehicles and their speed can be adjusted to create varying challenge levels.
+- **Game State Representation**: The planner tracks and uses the world state to make decisions.
+
+### Level Layout
+<img width="647" alt="Screenshot 2025-01-06 at 14 49 27" src="https://github.com/user-attachments/assets/0681c5d7-45e3-4a18-96ce-5fc50877e9ae" />
