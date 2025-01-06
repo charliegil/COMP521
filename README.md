@@ -60,6 +60,4 @@ Running with five humans and five robots.
 
 ![Multiple Agents Simulation Video](https://github.com/user-attachments/assets/41900457-dba9-4c36-b6c5-5acd9be3ee83)
 
----
 
-This project highlights Unity’s capabilities in simulating physics and movement within complex environments, using both discrete and continuous pathfinding. Thank you for exploring my work in COMP 521!
